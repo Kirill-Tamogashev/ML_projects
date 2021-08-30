@@ -3,7 +3,7 @@ The repository contains notebooks with models in various fields of ML and Dl.
 The majority of the notebooks is made as a course projects at Higher School of Economics 
 and Deep Learning School. Here goes the list of directories and their content:
 
-1. *Audion* : includes a notbook with algorithms for speach preprocessing and a notebook with audio classification
+1. *Audio* : includes a notbook with algorithms for speach preprocessing and a notebook with audio classification
 
 2. *Basic_ML* : contains notebooks with implementaions of kNN, LinearRegression, Boosting and Recomendation system
 
